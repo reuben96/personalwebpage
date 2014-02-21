@@ -1,0 +1,127 @@
+* {
+    color:white;
+    font-size:14px;
+    font-style:inital;
+    font-weight: lighter;
+           font-family:garamond, arial;
+    position:relative;
+    
+}
+#me img {
+    top:0;
+    left:0; 
+    margin: 2px;
+    border-radius: 50px;
+    height: 50px;
+    width: 40px;
+    padding: 23px'
+}
+
+#white h2 p {
+    width:100%;
+    height:150px;
+color:white;
+    margin-bottom:2px;
+    position:relative;
+      padding: 23px;
+    padding-top:10px;
+       font-family:garamond, arial;
+    font-size:14px;
+    font-style:inital;
+    font-weight: lighter;
+
+   
+
+} 
+.intro h2  {
+    
+  
+   color:white;
+       font-family:Garamond, Arial;
+    font-size:20px;
+    font-style:inital;
+    font-weight: lighter;
+
+   
+    
+}
+.intro   {
+    font-size:12px;
+    margin:23px;
+    padding: 12px;
+    border:2px solid white;
+    border-radius: 10px ;
+    width: 250px;
+    height: 100px;
+    
+   
+    margin-top:23px;
+       font-family:garamond, arial;
+    font-size:20px;
+    font-style:inital;
+    font-weight: lighter;
+
+   
+    
+}
+hr {
+    opacity: 0.1;
+    
+}
+body  {
+    background-repeat:no-repeat;  
+background-attachment:fixed;
+background-position:fixed; 
+    background-size:cover;
+  
+    
+}
+.whitespace {
+   
+    height: 130px;
+    width:100%;
+    border 2p solid white;
+    opacity: 0.9;
+    color: white; 
+  
+  
+    
+ 
+       
+}
+li {
+    display:inline;
+   
+    
+}
+.whitespace h2 {
+    font-family:garamond, arial;
+    font-size:20px;
+    font-style:inital;
+    font-weight: lighter;
+    
+}
+h2 {
+     font-family:garamond, arial;
+    font-size:20px;
+    font-style:inital;
+    font-weight: lighter;
+    
+    
+}
+.footer {
+    width:100%;
+    margin:4px;
+    background-color:black;
+height:20px;    
+    text-decoration:none;
+    opacity:0.5
+   
+}
+.footer a:hover{
+    color:yellow;
+    
+}
+ a {
+text-decoration:none;    
+}
